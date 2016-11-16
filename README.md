@@ -1,0 +1,1 @@
+# Sinatra Resource testing app

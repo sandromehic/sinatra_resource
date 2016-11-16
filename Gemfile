@@ -1,0 +1,5 @@
+source 'https://rubygems.org'
+gem 'thin', '~> 1.7.0'
+gem 'sinatra', '~> 1.4.7'
+gem 'sinatra-contrib', '~> 1.4.7'
+gem 'minitest', '~> 5.9.1'
